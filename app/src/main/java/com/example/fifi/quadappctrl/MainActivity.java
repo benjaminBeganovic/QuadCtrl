@@ -36,6 +36,7 @@ public class MainActivity extends AppCompatActivity {
     String messageStr="##123123**";
     String ledOrM = "";
     boolean ignoreTouch = false;
+    // test only
 
     int motorSX = 0;
 
